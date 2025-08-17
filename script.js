@@ -100,7 +100,7 @@ if (todayMenu) {
     const list = document.createElement("ul");
     items.split(", ").forEach(item => {
       const li = document.createElement("li");
-      li.className = "ml-5 mt-2 list-disc";
+      li.className = "ml-5 mt-2 list-disc mb-3";
       li.textContent = item;
       list.appendChild(li);
     });
