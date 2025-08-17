@@ -81,31 +81,59 @@ switch (weekday) {
     break;
 }
 
+const daysOfWeek = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+
+
 const menuContainer = document.querySelector("#menu-container");
+const menuDayTitle = document.querySelector("#menu-day-title");
+const daySelect = document.querySelector("#day-select");
 
-if (todayMenu) {
-  const heading = document.createElement("h3");
-  heading.className = "text-3xl font-bold ml-2";
-  heading.textContent = weekday;
-  menuContainer.appendChild(heading);
+function displayMenu(dayName) {
+  const today = new Date().toLocaleString('en-US', { weekday: "long" });
 
-  for (const [meal, items] of Object.entries(todayMenu)) {
-    const mealKey = meal.toLowerCase();
-    const colors = mealColors[mealKey] || { text: 'text-gray-300' };
-    const mealTitle = document.createElement("h4");
-    mealTitle.className = `ml-2 text-2xl font-medium mt-4 ${colors.text}`;
-    mealTitle.textContent = `${meal}:`;
-    menuContainer.appendChild(mealTitle);
-
-    const list = document.createElement("ul");
-    items.split(", ").forEach(item => {
-      const li = document.createElement("li");
-      li.className = "ml-5 mt-2 list-disc mb-3";
-      li.textContent = item;
-      list.appendChild(li);
-    });
-    menuContainer.appendChild(list);
+  
+  if (dayName === today) {
+    menuDayTitle.textContent = "Today's Menu";
+  } else {
+    menuDayTitle.textContent = `${dayName}'s Menu`;
   }
-} else {
-  menuContainer.innerHTML = "<p>No menu available</p>";
+
+  menuContainer.innerHTML = "";
+
+  const menu = messMenu[dayName];
+  if (menu) {
+    for (const [meal, items] of Object.entries(menu)) {
+      const mealKey = meal.toLowerCase();
+      const colors = mealColors[mealKey] || { text: 'text-gray-300' };
+
+      const mealTitle = document.createElement("h4");
+      mealTitle.className = `text-2xl font-medium mt-4 ${colors.text}`;
+      mealTitle.textContent = `${meal}:`;
+      menuContainer.appendChild(mealTitle);
+
+      const list = document.createElement("ul");
+      items.split(", ").forEach(item => {
+        const li = document.createElement("li");
+        li.className = "ml-5 mt-2 list-disc mb-3";
+        li.textContent = item;
+        list.appendChild(li);
+      });
+      menuContainer.appendChild(list);
+    }
+  } else {
+    menuContainer.innerHTML = "<p>No menu available</p>";
+  }
 }
+
+
+daySelect.addEventListener("change", (e) => {
+  const selectedDay = daysOfWeek[parseInt(e.target.value)];
+  displayMenu(selectedDay);
+});
+
+
+window.onload = () => {
+  const todayIndex = new Date().getDay(); 
+  daySelect.value = todayIndex;
+  displayMenu(daysOfWeek[todayIndex]);
+};
