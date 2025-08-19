@@ -1,0 +1,232 @@
+{
+  "hostelName": "KP - 12",
+  "menuTitle": "MENU",
+  "weeklyMenu": [
+    {
+      "day": "Monday",
+      "breakfast": [
+        "CHOLE BHATURE",
+        "CORNFLAKES WITH MILK",
+        "BANANA (1PC)",
+        "TEA"
+      ],
+      "lunch": [
+        "RICE",
+        "ROTI",
+        "ALOO PARBAL",
+        "KASA",
+        "ALOO KARELA CHIPS",
+        "SWEET PICKLE",
+        "MIXED BOILED VEGETABLES"
+      ],
+      "snacks": [
+        "VEG PASTA",
+        "TEA"
+      ],
+      "dinner": [
+        "RICE",
+        "DAL",
+        "ROTI",
+        "MIX VEG PANNER DRY",
+        "NALI",
+        "GULAB JAMUN",
+        "MIXED BOILED VEGETABLES"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "breakfast": [
+        "UTTAPAM",
+        "SAMBHAR",
+        "CHUTNY/ BREAD",
+        "BUTTER",
+        "JAM",
+        "COFFEE"
+      ],
+      "lunch": [
+        "RICE",
+        "DAL",
+        "ROTI",
+        "EGG CURRY (PATATO)",
+        "PANEER KOFTA",
+        "PLAIN CURD",
+        "PAPAD",
+        "MIXED BOILED VEGETABLES"
+      ],
+      "snacks": [
+        "CORN CHAT",
+        "TEA"
+      ],
+      "dinner": [
+        "RICE",
+        "BIRI POORI",
+        "CHANA DAL FRY",
+        "ALOO JEERA (DRY)",
+        "RICE KHREE",
+        "MIXED BOILED VEGETABLES"
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "breakfast": [
+        "BREAD",
+        "BUTTER",
+        "JAM",
+        "BOILED EGG",
+        "VEG CUTLET",
+        "CHUTNEY",
+        "TEA"
+      ],
+      "lunch": [
+        "RICE",
+        "DAL",
+        "ROTI",
+        "CHILLY FISH DRY",
+        "VEG MANCHURIAN",
+        "SALAD",
+        "MIXED BOILED VEGETABLES"
+      ],
+      "snacks": [
+        "PIAJI (2PC)",
+        "SAUCE",
+        "TEA"
+      ],
+      "dinner": [
+        "RICE",
+        "DAL",
+        "ROTI",
+        "CHICKEN CURRY WITH PATATO",
+        "PANNER TIKKALI (SEMI GRAVY)",
+        "NALI",
+        "MIXED BOILED VEGETABLES"
+      ]
+    },
+    {
+      "day": "Thursday",
+      "breakfast": [
+        "SUJI SIMEYA UPMA",
+        "GHUGHUNI",
+        "CHUTNEY",
+        "CORNFLAKES WITH MILK",
+        "BANANA (1PC)",
+        "TEA"
+      ],
+      "lunch": [
+        "RICE",
+        "ROTI",
+        "DALMA",
+        "AMBULA RAI",
+        "ALOO CHOKHA",
+        "MIXED BOILED VEGETABLES"
+      ],
+      "snacks": [
+        "GOOD DAY BISCUT (1PKT)",
+        "TEA"
+      ],
+      "dinner": [
+        "RICE",
+        "ROTI",
+        "VEG TADKA",
+        "MIX VAJI",
+        "KULFI",
+        "MIXED BOILED VEGETABLES"
+      ]
+    },
+    {
+      "day": "Friday",
+      "breakfast": [
+        "BREAD",
+        "EGG OMLET",
+        "VEG CUTLET",
+        "BUTTER",
+        "JAM",
+        "TEA"
+      ],
+      "lunch": [
+        "RICE",
+        "DAL",
+        "ROTI",
+        "FISH BESARA (PATATO)",
+        "ALOO MUTTER PANEER",
+        "PAPAD",
+        "MIXED BOILED VEGETABLES"
+      ],
+      "snacks": [
+        "SAMOSA (2PC)",
+        "CHUTNEY",
+        "TEA"
+      ],
+      "dinner": [
+        "CHICKEN BIRYANI/ VEG BIRYANI",
+        "RAITA",
+        "PANNER BUTTER MASALA",
+        "JALJEERA",
+        "MIXED BOILED VEGETABLES"
+      ]
+    },
+    {
+      "day": "Saturday",
+      "breakfast": [
+        "VEG MAGGIE",
+        "CORN FLAKES",
+        "MILK",
+        "BANANA (1PC)",
+        "TEA"
+      ],
+      "lunch": [
+        "RICE",
+        "ROTI",
+        "DAL",
+        "CABAGE ALOO MUTTER",
+        "KADI PAKODI",
+        "MIXED BOILED VEGETABLES"
+      ],
+      "snacks": [
+        "VADA PAV (1PC) (KHATA MITHA CHUTNEY)",
+        "COFFEE"
+      ],
+      "dinner": [
+        "RICE",
+        "DAL",
+        "ROTI",
+        "CHICKEN CURRY",
+        "PANNER DOPYAZA",
+        "JALEBI (2PCS)",
+        "MIXED BOILED VEGETABLES"
+      ]
+    },
+    {
+      "day": "Sunday",
+      "breakfast": [
+        "DOSA",
+        "SAMBAR",
+        "CHUTNEY / BREAD",
+        "BUTTER",
+        "JAM",
+        "TEA"
+      ],
+      "lunch": [
+        "VEG PULAO (JEERA RICE)",
+        "ROTI",
+        "DAL FRY",
+        "CHICKEN HYDRABADI",
+        "KADAI PANEER",
+        "SALAD",
+        "MIXED BOILED VEGETABLES"
+      ],
+      "snacks": [
+        "PAKODI (TOMATO SAUCE)",
+        "TEA"
+      ],
+      "dinner": [
+        "RICE",
+        "DAL",
+        "ROTI",
+        "EGG KALIA",
+        "ALOO CHOLE MASALA",
+        "NALI",
+        "MIXED BOILED VEGETABLES"
+      ]
+    }
+  ]
+}

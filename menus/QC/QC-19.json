@@ -1,0 +1,256 @@
+{
+  "hostelName": "QUEENS' CASTEL-19",
+  "menuTitle": "MENU",
+  "weeklyMenu": [
+    {
+      "day": "Monday",
+      "breakfast": [
+        "DAHI VADA",
+        "ALOO DUM / PARATHA",
+        "ALOO BHUJIA",
+        "BREAD",
+        "BUTTER",
+        "S. MILK",
+        "BANANA",
+        "TEA"
+      ],
+      "lunch": [
+        "RICE",
+        "ROTI",
+        "MOONG DAL",
+        "BESAN ALOO SABJI",
+        "FINGER CHIPS",
+        "SALAD",
+        "MIXED BOILED VEGETABLE"
+      ],
+      "snacks": [
+        "CORN CHAT",
+        "COFFEE"
+      ],
+      "dinner": [
+        "FRIED RICE",
+        "ROTI",
+        "CHOWMIN",
+        "MACHURIAN",
+        "SHUP",
+        "MIXED BOILED VEGETABLE"
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "breakfast": [
+        "UTTAPAM",
+        "SAMBER",
+        "CHUTNEY",
+        "BREAD",
+        "BUTTER",
+        "JAM",
+        "COFFEE"
+      ],
+      "lunch": [
+        "RICE",
+        "ROTI",
+        "DAL",
+        "EGG KALIA",
+        "PAPAD",
+        "MIXED SABJI",
+        "MULA RAI",
+        "MIXED BOILED VEGETABLE"
+      ],
+      "snacks": [
+        "PAPADI CHAT",
+        "TEA"
+      ],
+      "dinner": [
+        "RICE",
+        "DAL",
+        "PURI",
+        "DAL",
+        "CHOLE MASALA DAL",
+        "PAPAD",
+        "MIXED BOILED VEGETABLE"
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "breakfast": [
+        "BREAD",
+        "BUTTER",
+        "JAM",
+        "BOILED EGG",
+        "ALOO TIKKI",
+        "OATS",
+        "CORNS",
+        "MILK",
+        "BANANA",
+        "TEA"
+      ],
+      "lunch": [
+        "RICE",
+        "ROTI",
+        "DAL",
+        "SARSO FISH CURRY",
+        "ALOO PATOL PANEER",
+        "DAHI BANDHA",
+        "SALAD",
+        "MIXED BOILED VEGETABLE"
+      ],
+      "snacks": [
+        "MAGGI",
+        "COFFEE"
+      ],
+      "dinner": [
+        "RICE",
+        "ROTI",
+        "DAL",
+        "CHILLI CHICKEN",
+        "CHILI PANEER",
+        "ALOO KOBI",
+        "MIXED BOILED VEGETABLE"
+      ]
+    },
+    {
+      "day": "Thursday",
+      "breakfast": [
+        "IDLI",
+        "SAMBER",
+        "CHUTNEY",
+        "BREAD",
+        "BUTTER",
+        "JAM",
+        "BANANA",
+        "COFFEE"
+      ],
+      "lunch": [
+        "RICE",
+        "DAL",
+        "ROTI",
+        "DAL MAKHANI",
+        "CABBAGE ALOO",
+        "PLAIN DAHI",
+        "PAPAD",
+        "MIXED VEGETABLE (PLAIN RICE)"
+      ],
+      "snacks": [
+        "DAL BADA",
+        "TEA"
+      ],
+      "dinner": [
+        "RICE",
+        "DAL",
+        "ROTI",
+        "ALOO CAPSICUM CORN DRY",
+        "ALBI",
+        "MIXED BOILED VEGETABLE"
+      ]
+    },
+    {
+      "day": "Friday",
+      "breakfast": [
+        "BREAD",
+        "BUTTER",
+        "JAM",
+        "CUTLET",
+        "CHOGLE",
+        "CORN FLAKES",
+        "MILK",
+        "BANANA",
+        "TEA"
+      ],
+      "lunch": [
+        "RICE",
+        "ROTI",
+        "DAL",
+        "FISH FRY",
+        "MIX PANEER POSTO",
+        "DAHI KADI",
+        "MIXED BOILED VEGETABLE"
+      ],
+      "snacks": [
+        "RUSKIT",
+        "COFFEE"
+      ],
+      "dinner": [
+        "VEG BIRIYANI",
+        "NON VEG BIRIYANI",
+        "ALOO PANEER CURRY",
+        "ROTI",
+        "MIXED BOILED VEGETABLE"
+      ]
+    },
+    {
+      "day": "Saturday",
+      "breakfast": [
+        "CHOLE BHATURE",
+        "BREAD",
+        "BUTTER",
+        "JAM",
+        "COFFEE"
+      ],
+      "lunch": [
+        "RICE",
+        "ROTI",
+        "DAL",
+        "KHICHDI",
+        "DALMA",
+        "ALOO CHOKHA",
+        "PAPAD",
+        "BADI CHURA",
+        "TAMATO KHATA",
+        "KALARA CHIPS",
+        "ALOO DRY",
+        "ALOO KALERA CHIPS",
+        "MIXED BOILED VEGETABLE"
+      ],
+      "snacks": [
+        "ALOO SANAWICH",
+        "TEA"
+      ],
+      "dinner": [
+        "RICE",
+        "ROTI",
+        "DAL",
+        "CHICKEN KASA",
+        "PANEER ALOO BHUJIA",
+        "CUSTARD",
+        "MIXED BOILED VEGETABLE"
+      ]
+    },
+    {
+      "day": "Sunday",
+      "breakfast": [
+        "MASALA DOSA",
+        "SAMBER",
+        "CHUTNEY",
+        "BREAD",
+        "BUTTER",
+        "JAM",
+        "COFFEE"
+      ],
+      "lunch": [
+        "LEMON RICE",
+        "ROTI",
+        "DAL",
+        "CHICKEN BUTTER MASALA",
+        "PANEER ALOO KHATTA",
+        "PAPAD",
+        "SALAD",
+        "MIXED BOILED VEGETABLE"
+      ],
+      "snacks": [
+        "BADA PAO",
+        "TEA"
+      ],
+      "dinner": [
+        "RICE",
+        "ROTI",
+        "DAL",
+        "EGG ALOO BHUJIA",
+        "SOYABIN ALOO CURRY",
+        "DALMA",
+        "PAPAD",
+        "MIXED BOILED VEGETABLE"
+      ]
+    }
+  ]
+}
